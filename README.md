@@ -2,7 +2,7 @@
 
 ![Tipulator Preview](public/og-image.jpg)
 
-**Tipulator** is an effortless tip calculator app. Easily calculate and split tips based on the bill amount, number of people, and satisfaction level.
+**[Tipulator](https://czqswd.csb.app/)** is an effortless tip calculator app. Easily calculate and split tips based on the bill amount, number of people, and satisfaction level.
 
 ## Features
 
